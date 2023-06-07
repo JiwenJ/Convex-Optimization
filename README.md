@@ -13,3 +13,4 @@
 - https://convexoptimization.com/TOOLS/AnalyRock.pdf
 - https://arxiv.org/pdf/1405.4980.pdf
 - https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.693.855&rep=rep1&type=pdf
+- https://www.stat.cmu.edu/~ryantibs/convexopt-F18/prerequisite_topics.pdf
