@@ -10,3 +10,5 @@
 ## Books
 - https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
 - https://convexoptimization.com/TOOLS/AnalyRock.pdf
+- https://arxiv.org/pdf/1405.4980.pdf
+- https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.693.855&rep=rep1&type=pdf
