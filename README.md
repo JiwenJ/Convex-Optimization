@@ -1,4 +1,12 @@
 # Convex-Optimization
 ## Courses
 - https://fanpu.io/cmu-online/
+- https://www.andrew.cmu.edu/user/yuanzhil/cov.html
+- https://www.andrew.cmu.edu/user/yuanzhil/
+- https://web.stanford.edu/class/ee364a/
+- https://www.stat.cmu.edu/~ryantibs/convexopt/#review
+- http://faculty.bicmr.pku.edu.cn/~wenzw/opt-2020-fall.html
+- http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html#lecture
 ## Books
+- https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
+- https://convexoptimization.com/TOOLS/AnalyRock.pdf
