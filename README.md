@@ -7,6 +7,7 @@
 - https://www.stat.cmu.edu/~ryantibs/convexopt/#review
 - http://faculty.bicmr.pku.edu.cn/~wenzw/opt-2020-fall.html
 - http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html#lecture
+- https://ee227c.github.io/
 ## Books
 - https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
 - https://convexoptimization.com/TOOLS/AnalyRock.pdf
